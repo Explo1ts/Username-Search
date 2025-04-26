@@ -1,15 +1,9 @@
 import requests
-
 from bs4 import BeautifulSoup
-
 import threading
-
 import concurrent.futures
-
 import os
-
 import pyfiglet
-
 from colorama import Fore, init
 
 
