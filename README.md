@@ -11,6 +11,7 @@ Features:
 - 
   - YouTube
   - Instagram
+  - Tiktok
   - GitHub
   - SoundCloud
   - Linktree
