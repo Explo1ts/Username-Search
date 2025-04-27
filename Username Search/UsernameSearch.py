@@ -6,19 +6,15 @@ import os
 import pyfiglet
 from colorama import Fore, init
 
-
 ascii_banner = pyfiglet.figlet_format("Username Search - Made By Exploits")
 print(ascii_banner)
-
 
 init()
 g = Fore.GREEN
 r = Fore.RED
 w = Fore.RESET
 
-
 print_lock = threading.Lock()
-
 
 def google_dork_search(query):
 
