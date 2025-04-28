@@ -20,4 +20,4 @@ Features:
   - Snapchat
   - Facebook
   - Steam Community
-  - Twitter (formerly known as x.com)
+  - Twitter also known as X
